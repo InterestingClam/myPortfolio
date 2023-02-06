@@ -1,0 +1,5 @@
+http://www.exampledomain.come/index.html
+http://www.exampledomain.come/about.html
+http://www.exampledomain.come/classes.html
+http://www.exampledomain.come/nutrition.html
+http://www.exampledomain.come/contact.html

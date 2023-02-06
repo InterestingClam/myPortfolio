@@ -1,0 +1,173 @@
+/* CSS Document */
+/*Colors: 
+Red:  #650404
+Gold: #FFD700
+White: #fff/#FFFFFF
+black: #000/#000000
+Green: #00611C
+*/
+
+
+
+body {
+	background-color: #650404;
+	color: #fff;
+}
+
+
+header {
+	margin: 0;
+	padding: 0;
+	background-image: url("../images/2021Christmas.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: top;
+	min-height: 800px;
+	border-bottom: 10px solid red;
+}
+
+header h1 {
+	position: relative;
+	top: 200px;
+	float: right;
+	padding-right: 250px;
+	font-family: 'Fleur De Leah', cursive;
+	font-size: 6em;
+	color: #FEFEFE;
+}
+
+header nav {
+	margin: 0;
+	padding: 0;
+	background: #E60105;
+	min-height: 60px;
+	font-size: 2em;
+}
+
+header nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 10px 0 10px 0;
+}
+
+header nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+header nav a {
+	color: #FEFEFE;
+	text-decoration: none;	
+	padding: 10px 25px 10px 25px;
+}
+
+/* Pseudo-Class Selector */
+header nav a:hover {
+	background: #E60105;
+	       
+}
+
+
+
+
+
+main #homePix {
+	background: #FEFEFE;
+	color: #FEFEFE;
+	
+}
+
+main section h2 {
+	background-color: #FEFEFE; 
+	width: 100%;
+	text-align: center;
+	color: #000000;
+}
+
+main section h2 a {
+	color: #000000;
+}
+
+main section h3{
+	background-color: #FEFEFE98;
+	display: inline-block;
+	padding: 10px;
+	width: 35%;
+	color: #650404;
+}
+
+main #GreatHornedOwl {
+	min-height: 450px;
+	background-image: url(../images/Money.png);
+	background-color: #650404;
+	background-size: cover;
+	color:#650404;
+}
+main p {
+	font-size: 2em;
+}
+main img {
+	display: inline-block;
+	margin-left: 35%;
+	/*border: 1px solid black;*/
+}
+
+
+main #BarnOwl {
+	min-height: 450px;
+	background-image: url(../images/Fallout.png);
+	background-color: #650404;
+	color: #650404;
+	background-size: cover;
+	clear: both;
+}
+
+main #EldenRing {
+	clear: both;
+	min-height: 450px;
+	background-image: url(../images/6527559_3595ff2c27_o.jpg);
+	background-size: cover;
+	background-color: #650404;
+	color:#650404;
+} 
+
+main #OwlPlushie {
+	clear: both;
+	min-height: 400px;
+	background-image:url(../images/5540282190_3ff562ab19_n.jpg);
+	background-size: cover;
+	background-color: #650404;
+	color: #650404;
+}
+
+main #OwlHat {
+	clear: both;
+	min-height: 400px;
+	background-image: url(../images/133367324_5b06a71a11_b.jpg);
+	background-size: cover;
+	background-color: #FEFEFE;
+	color: #650404;
+}
+
+main #SantaTracker {
+	clear: both;
+	min-height: 400px;
+	background-image: url(../images/1915210_0ec741f48f_n.jpg);
+	background-size: cover;
+	background-color: #E60105;
+	color: #E60105;
+}
+
+main #itemPage {
+	color:  #E60105;
+}
+
+
+footer {
+	
+}
+
+fNav {
+	background-color: #FFD700;
+	color: #000;
+}

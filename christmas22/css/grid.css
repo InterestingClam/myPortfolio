@@ -1,0 +1,40 @@
+/* CSS Document */
+
+@supports (grid-area: auto) {
+	
+	@media screen and (min-width: 400px) {
+	
+		
+		#homePix {
+	        display: grid;
+			width: 100%;
+			grid-template-columns: 30% 30% 30%;
+			/* 90% screen - leaves spaces for grid-gap */
+			grid-template-areas: 
+				    "Money FalloutDecorations RoomNeonLights"
+				    "LeverActionRifle HalloweenCostume sanTrack";
+				justify-content: center;
+			    grid-gap: 1% 1%;
+		}
+	     
+		#GreatHornedOwl{
+			grid-area: GreatHornedOwl;
+		}
+		
+		#FalloutDecorations{
+			grid-area: BarnOwl;
+		}
+		#RoomNeonLights{
+			grid-area: EldenRing;
+		}
+		
+		#LeverActionRifle{
+			grid-area: OwlPlushie;
+		}
+		
+		#HalloweenCostume{
+		    grid-area: OwlHat;
+		}
+		#sanTrack{
+			grid-area: SantaTracker;
+		}
