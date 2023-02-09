@@ -9,16 +9,18 @@ header {
 }
 
 body {
-    background-color: #fc5d0e;
+    background-color: #c5bfbc;
 }
 
 main {
 
 }
 
+#information {
+	text-align: center;
+}
 
 #resume h2 {
-	font-weight: bold;
 	background-color: rgb(254, 192, 116);
 }
 
