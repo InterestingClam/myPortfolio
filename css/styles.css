@@ -2,13 +2,30 @@
 	margin:0;
 	padding:0;
 	border:0;
-
-
-.hnav {
-    background-color: ;
 }
 
-body{
-    background-color: ;
+header {
+
 }
 
+body {
+    background-color: #fc5d0e;
+}
+
+main {
+
+}
+
+
+#resume h2 {
+	font-weight: bold;
+	background-color: rgb(254, 192, 116);
+}
+
+#resume p {
+	background-color: rgb(254, 224, 131);
+}
+
+footer{
+
+}
