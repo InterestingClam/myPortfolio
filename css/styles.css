@@ -31,16 +31,30 @@ img {
 	text-align: center;
 }
 
-
 #christmasList {
-	
+	background-color: azure;
+}
+
+#christmasList img{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 30%;
+	height:100px;
 }
 
 
 #forwardFitness {
-
+	background-color: azure;
 }
 
+#forwardFitness img{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 30%;
+	height:100px;
+}
 
 #resume {
 
