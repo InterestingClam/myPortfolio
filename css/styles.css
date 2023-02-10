@@ -26,12 +26,20 @@ main {
 
 
 #christmasList {
+	min-height: 100px;
 	background-image: url("snow.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 30% 30%;
 }
 
 
 #forwardFitness {
+	min-height: 100px;
 	background-image: url("weights.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 30% 30%;
 }
 
 
