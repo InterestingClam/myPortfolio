@@ -5,11 +5,11 @@
 }
 
 header {
-	min-height: 200px;
-	background-image: url("headShot.png");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: 30% 30%;
+	padding: 5% 0;
+	margin: 0 auto;
+	width: 80%;
+	min-height: 500px;
+	font-size: 1.8em;
 }
 
 body {
@@ -26,20 +26,20 @@ main {
 
 
 #christmasList {
-	min-height: 100px;
-	background-image: url("snow.jpeg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: 30% 30%;
+	padding: 5% 0;
+	margin: 0 auto;
+	width: 80%;
+	min-height: 500px;
+	font-size: 1.8em;
 }
 
 
 #forwardFitness {
-	min-height: 100px;
-	background-image: url("weights.jpeg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: 30% 30%;
+	padding: 5% 0;
+	margin: 0 auto;
+	width: 80%;
+	min-height: 500px;
+	font-size: 1.8em;
 }
 
 
