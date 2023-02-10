@@ -16,17 +16,25 @@ main {
 
 }
 
-#information {
+#introduction {
 	text-align: center;
 }
 
-#resume h2 {
-	background-color: rgb(254, 192, 116);
+
+#christmasList {
+	background-image: url("snow.jpeg");
 }
 
-#resume p {
-	background-color: rgb(254, 224, 131);
+
+#forwardFitness {
+	background-image: url("weights.jpeg");
 }
+
+
+#resume {
+
+}
+
 
 footer{
 
