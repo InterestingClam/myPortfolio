@@ -1,0 +1,35 @@
+*, *:active {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+header{
+    background-color: black;
+    color:white;
+}
+
+#skills{
+    background-color: #444;
+    color: white;
+}
+
+#education{
+    background-color: #444;
+    color: white;
+}
+
+#objective{
+    background-color: #444;
+    color: white;
+}
+
+#about{
+    background-color: #444;
+    color: white;
+}
+
+footer{
+
+}
+

@@ -37,3 +37,10 @@
             <h2>Where I got my Education</h2>
                 <p>Recieved my Eductation from Seaway Tech - Career & Technical Education. Went to highschool at Massena Central School District</p>
             <br>
+
+
+
+
+            <div id="container">
+		<img src="" alt="">
+	</div>
