@@ -1,3 +1,5 @@
+
+
 *, *:active {
 	margin:0;
 	padding:0;
@@ -27,15 +29,21 @@ img {
     color: white;
 }
 
-#portfolio {
-    background-color: #444;
-    color: white;
-}
-
 #about {
     background-color: #444;
     color: white;
 }
+
+#portfolio {
+    background-color: #444;
+    color: white;
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 30%;
+	height:100px;
+}
+
 
 #resume {
     background-color: #444;
