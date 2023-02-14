@@ -5,6 +5,8 @@
 }
 
 header {
+	background-color: black;
+	color:white;
 	padding: 5% 0;
 	margin: 0 auto;
 	width: 80%;
@@ -12,13 +14,6 @@ header {
 	font-size: 1.8em;
 }
 
-body {
-    background-color: #c5bfbc;
-}
-
-main {
-
-}
 
 img {
 	display: block;
@@ -28,36 +23,23 @@ img {
 }
 
 #introduction {
-	text-align: center;
+	background-color: #444;
+    color: white;
 }
 
-#christmasList {
-	background-color: azure;
+#portfolio {
+    background-color: #444;
+    color: white;
 }
 
-#christmasList img{
-	display: block;
-	margin-left:auto;
-	margin-right: auto;
-	width: 30%;
-	height:100px;
-}
-
-
-#forwardFitness {
-	background-color: azure;
-}
-
-#forwardFitness img{
-	display: block;
-	margin-left:auto;
-	margin-right: auto;
-	width: 30%;
-	height:100px;
+#about {
+    background-color: #444;
+    color: white;
 }
 
 #resume {
-
+    background-color: #444;
+    color: white;
 }
 
 
