@@ -9,6 +9,13 @@ header{
     color:white;
 }
 
+img {
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 60%;
+}
+
 #skills{
     background-color: #444;
     color: white;
