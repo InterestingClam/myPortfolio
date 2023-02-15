@@ -18,30 +18,34 @@ img {
 	display: block;
 	margin-left:auto;
 	margin-right: auto;
-	width: 60%;
+	width: 100%;
 }
 
 #skills{
     background-color: #444;
     color: white;
+    text-align: center;
 }
 
 #education{
     background-color: #444;
     color: white;
+    text-align: center;
 }
 
 #objective{
     background-color: #444;
     color: white;
+    text-align: center;
 }
 
 #about{
     background-color: #444;
     color: white;
+    text-align: center;
 }
 
 footer{
-
+    text-align: center;
 }
 
