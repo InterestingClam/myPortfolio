@@ -12,13 +12,14 @@ header{
 	width: 80%;
 	min-height: 500px;
 	font-size: 1.8em;
+    text-align: center;
 }
 
 img {
 	display: block;
 	margin-left:auto;
 	margin-right: auto;
-	width: 100%;
+	width: 50%;
 }
 
 #skills{
