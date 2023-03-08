@@ -24,9 +24,13 @@ img {
 	width: 60%;
 }
 
+br {
+	background: #444;
+}
 #introduction {
 	background-color: #444;
     color: white;
+	text-align: center;
 }
 
 #about {
@@ -54,5 +58,7 @@ img {
 
 
 footer{
-
+	background-color: #444;
+	color:white;
+	text-align: center;
 }
