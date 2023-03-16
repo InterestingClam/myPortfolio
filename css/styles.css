@@ -50,6 +50,10 @@ img {
 #resume {
     background-color: #444;
     color: white;
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 100%;
 	text-align: center;
 }
 
