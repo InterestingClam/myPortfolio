@@ -33,6 +33,7 @@ header {
 header nav {
 	padding: 5px 25px;
 	background-color: #44281e;
+	text-align: center;
 }
 
 header img {
@@ -63,3 +64,14 @@ header h1 {
 	padding: 0;
 	border: 1px solid #000;
 }
+
+footer{
+	text-align: center;
+}
+
+footer nav {
+	padding: 5px 25px;
+	background-color: #44281e;
+}	
+
+
