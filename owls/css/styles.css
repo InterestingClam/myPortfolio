@@ -32,9 +32,11 @@ header {
 }
 
 header nav {
-	padding: 5px 25px;
+	font-size: 1em;
+	padding: 10px 25px;
 	background-color: #44281e;
 	text-align: center;
+	color:#8b8484
 }
 
 header img {
@@ -82,6 +84,7 @@ footer{
 footer nav {
 	padding: 5px 25px;
 	background-color: #44281e;
+	color:#8b8484;
 }	
 
 
