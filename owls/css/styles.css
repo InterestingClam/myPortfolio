@@ -57,7 +57,7 @@ header nav ul li {
 }
 
 header nav a {
-	color: #8b8484;
+	color: #000;
 	text-decoration: underline;
 }
 
@@ -88,7 +88,12 @@ footer nav {
 	color:#000;
 }	
 
+footer nav ul {
+	display: block;
+	float: right;
+}
+
 footer nav a {
-	color: #8b8484;
+	color: #000;
 	text-decoration: underline;
 }
