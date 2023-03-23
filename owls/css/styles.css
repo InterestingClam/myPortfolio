@@ -47,15 +47,21 @@ header nav {
 	color:#000000;
 }
 
+header nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 10px 0 10px 0;
+}
 header nav ul,li {
 	display: inline-block;
-	float: right;
+	margin-right: 1em;
 
 }
 
 header nav a {
 	color: #000;
 	text-decoration: underline;
+	padding: 10px 25px 10px 25px;
 }
 
 header nav a:hover {
