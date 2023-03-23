@@ -32,14 +32,6 @@ header {
 	text-align: center;
 }
 
-header nav {
-	font-size: 1em;
-	padding: 10px 25px;
-	background-color: #8b8484;
-	text-align: center;
-	color:#000000;
-}
-
 header img {
 	width: 5%;
 	max-width: 5%;
@@ -47,19 +39,28 @@ header img {
 	padding:0;
 }
 
-header nav ul {
-	display: block;
-	float: right;
+header nav {
+	font-size: 2em;
+	min-height: 60px;
+	background-color: #8b8484;
+	text-align: center;
+	color:#000000;
 }
 
-header nav ul li {
+header nav ul,li {
 	display: inline-block;
-	list-style: none;
+	float: right;
+
 }
 
 header nav a {
 	color: #000;
 	text-decoration: underline;
+}
+
+header nav a:hover {
+	background: #5e3f34;
+	       
 }
 
 header h1 {
@@ -73,9 +74,9 @@ header h1 {
 main img {
 	margin: 0;
 	padding:0;
-	margin-left:40%;
-	margin-right: 40%;
-	width: 20%;
+	margin-left:35%;
+	margin-right: 35%;
+	width: 30%;
 }
 
 footer{
