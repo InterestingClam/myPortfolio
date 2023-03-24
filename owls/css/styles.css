@@ -52,10 +52,9 @@ header nav ul {
 	margin: 0;
 	padding: 10px 0 10px 0;
 }
-header nav ul,li {
+.topN {
 	display: inline-block;
 	margin-right: 1em;
-
 }
 
 header nav a {
@@ -88,9 +87,9 @@ main img {
 	width: 30%;
 }
 
-.listFunFacts {
+/*.listFunFacts {
 	list-style-position: outside;
-}
+}*/
 
 
 footer{
@@ -98,7 +97,7 @@ footer{
 	background-color:#44281e;
 }
 
-footer nav {
+.bottomN {
 	padding: 5px 25px;
 	background-color: #8b8484;
 	color:#000;
