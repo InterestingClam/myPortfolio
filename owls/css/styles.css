@@ -76,6 +76,10 @@ header h1 {
 	border: 1px solid #000;
 }
 
+main {
+	text-align: center;
+}
+
 main img {
 	margin: 0;
 	padding:0;
