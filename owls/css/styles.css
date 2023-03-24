@@ -35,7 +35,7 @@ header {
 header img {
 	width: 5%;
 	max-width: 5%;
-	margin: 0;
+	margin-bottom: 30px;
 	padding:0;
 	float:left;
 }
