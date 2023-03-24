@@ -40,7 +40,7 @@ header img {
 	float:left;
 }
 
-.topN {
+header nav {
 	font-size: 2em;
 	min-height: 60px;
 	background-color: #8b8484;
@@ -48,22 +48,22 @@ header img {
 	color:#000000;
 }
 
-.topN ul {
+header nav ul {
 	margin: 0;
 	padding: 10px 0 10px 0;
 }
-.topN ul,li {
+header nav ul li {
 	display: inline-block;
 	margin-right: 1em;
 
 }
 
-.topN a {
+header nav a {
 	color: #000;
 	padding: 5px 15px 5px 15px;
 }
 
-.topN a:hover {
+header nav a:hover {
 	background: #5e3f34;
 	       
 }
@@ -96,18 +96,18 @@ footer{
 	background-color:#44281e;
 }
 
-.bottomN {
+footer nav {
 	padding: 5px 25px;
 	background-color: #8b8484;
 	color:#000;
 }	
 
-.bottomN ul {
+footer nav ul {
 	display: block;
 	float: right;
 }
 
-.bottomN a {
+footer nav a {
 	color: #000;
 	text-decoration: underline;
 }
