@@ -88,7 +88,7 @@ main img {
 
 /*.listFunFacts {
 	list-style-position: outside;
-}*
+}*/
 
 
 footer{
@@ -96,18 +96,18 @@ footer{
 	background-color:#44281e;
 }
 
-footer nav {
+.bottomN {
 	padding: 5px 25px;
 	background-color: #8b8484;
 	color:#000;
 }	
 
-footer nav ul {
+.bottomN ul {
 	display: block;
 	float: right;
 }
 
-footer nav a {
+.bottomN a {
 	color: #000;
 	text-decoration: underline;
 }
