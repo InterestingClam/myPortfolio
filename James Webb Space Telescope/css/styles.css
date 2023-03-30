@@ -1,0 +1,112 @@
+/*
+colors: purple: #6d3dce
+        diluted pink: #e471ae
+        Black: #000000
+        Off-whitish Grey: #8b8484
+        
+Images: owlMad.jpg - "Owl" by jennicatpink is licensed under CC BY-SA 2.0.
+        owlDiet.jpg - "Indian Eagle Owl" by Koshyk is licensed under CC BY 2.0.
+        owlNewsLetter.jpg - "Saw-whet Owl" by b_nicodemus is licensed under CC BY-SA 2.0.
+        owlSymbolism.jpg - "Owl at Library" by dyniss is licensed under CC BY-SA 2.0.
+        owlFunFacts.jpg - "Barn Owl" by rachelandrew is licensed under CC BY 2.0.
+        owlIndex.jpg - "Great Horned Owl" by Camera Eye Photography is licensed under CC BY 2.0.
+*/ 
+
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #6d3dce;
+}
+
+h1 ,h2, h3, h4, h5 {
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background: #44281e;
+	min-height: 100px;
+	margin:0;
+	padding: 0;
+	text-align: center;
+}
+
+header img {
+	width: 5%;
+	max-width: 5%;
+	margin-bottom: 30px;
+	padding:0;
+	float:left;
+}
+
+header nav {
+	font-size: 2em;
+	min-height: 60px;
+	background-color: #e471ae;
+	text-align: center;
+	color:#000000;
+}
+
+header nav ul {
+	margin: 0;
+	padding: 10px 0 10px 0;
+}
+header nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+
+}
+
+header nav a {
+	color: #000;
+	padding: 5px 15px 5px 15px;
+}
+
+header nav a:hover {
+	background: #6d3dce;
+	       
+}
+
+header h1 {
+	font-size: 3em;
+	background-color: #6d3dce;
+	margin: 0;
+	padding: 0;
+	border: 1px solid #000;
+}
+
+
+
+main img {
+	margin: 0;
+	padding:0;
+	margin-left:35%;
+	margin-right: 35%;
+	width: 30%;
+}
+
+/*.listFunFacts {
+	list-style-position: outside;
+}*/
+
+
+footer{
+	text-align: center;
+	background-color:#6d3dce;
+}
+
+footer nav {
+	padding: 5px 25px;
+	background-color: #e471ae;
+	color:#000;
+}	
+
+footer nav ul {
+	display: block;
+	float: right;
+}
+
+footer nav a {
+	color: #000;
+	text-decoration: underline;
+}
