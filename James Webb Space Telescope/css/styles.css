@@ -85,6 +85,10 @@ main img {
 	width: 30%;
 }
 
+
+form {
+    text-align: center;
+}
 /*.listFunFacts {
 	list-style-position: outside;
 }*/
