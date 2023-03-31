@@ -85,6 +85,9 @@ main img {
 	width: 30%;
 }
 
+p {
+	max-width: 75%;
+}
 
 form {
     text-align: center;
