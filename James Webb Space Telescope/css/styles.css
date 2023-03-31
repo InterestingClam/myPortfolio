@@ -40,7 +40,7 @@ header img {
 }
 
 header nav {
-	font-size: 2em;
+	font-size: 1.5em;
 	min-height: 40px;
 	background-color: #e471ae;
 	text-align: center;
@@ -51,6 +51,7 @@ header nav ul {
 	margin: 0;
 	padding: 7px 0 7px 0;
 }
+
 header nav ul li {
 	display: inline-block;
 	margin-right: 1em;
@@ -91,6 +92,7 @@ p {
 
 form {
     text-align: center;
+	margin-left: 45%;
 }
 /*.listFunFacts {
 	list-style-position: outside;
