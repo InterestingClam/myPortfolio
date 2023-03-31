@@ -76,7 +76,9 @@ header h1 {
 	border: 1px solid #000;
 }
 
-
+main {
+	text-align: center;
+}
 
 main img {
 	margin: 0;
@@ -86,13 +88,11 @@ main img {
 	width: 30%;
 }
 
-p {
-	max-width: 75%;
-}
 
 form {
     text-align: center;
 	margin-left: 45%;
+	margin-right: 45%;
 }
 /*.listFunFacts {
 	list-style-position: outside;
