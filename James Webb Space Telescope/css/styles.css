@@ -90,7 +90,8 @@ main img {
 
 
 form {
-    text-align: center;
+	margin-left: 45%;
+	margin-right: 45%
 }
 /*.listFunFacts {
 	list-style-position: outside;
