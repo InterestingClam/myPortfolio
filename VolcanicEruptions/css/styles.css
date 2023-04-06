@@ -1,6 +1,6 @@
 /*
-colors: dark BrownL: #44281e
-        light Brown: #5e3f34
+colors: red: #e03434
+        orange: #
         Black: #000000
         Off-whitish Grey: #8b8484
         
@@ -13,7 +13,7 @@ Images: Volcano1.jpg - "Alaska’s Pavlof Volcano: NASA’s View from Space" by 
 body {
 	padding: 0;
 	margin: 0;
-	background-color: #5e3f34;
+	background-color: #000;
 }
 
 h1 ,h2, h3, h4, h5 {
@@ -22,11 +22,12 @@ h1 ,h2, h3, h4, h5 {
 }
 
 header {
-	background: #44281e;
+	background: #000;
 	min-height: 100px;
 	margin:0;
 	padding: 0;
 	text-align: center;
+    color: #8b8484;
 }
 
 header img {
@@ -40,9 +41,9 @@ header img {
 header nav {
 	font-size: 2em;
 	min-height: 60px;
-	background-color: #8b8484;
+	background-color: #e03434;
 	text-align: center;
-	color:#000000;
+	color:#8b8484;
 }
 
 header nav ul {
@@ -67,13 +68,17 @@ header nav a:hover {
 
 header h1 {
 	font-size: 3em;
-	background-color: #5e3f34;
+	background-color: #000;
 	margin: 0;
 	padding: 0;
 	border: 1px solid #000;
+    color: #8b8484;
 }
 
-
+main {
+    background-color: #000;
+    color: #8b8484;
+}
 
 main img {
 	margin: 0;
@@ -90,13 +95,14 @@ main img {
 
 footer{
 	text-align: center;
-	background-color:#44281e;
+	background-color: #000;
+    color: #8b8484;
 }
 
 footer nav {
 	padding: 5px 25px;
-	background-color: #8b8484;
-	color:#000;
+	background-color: #e03434;
+	color:#8b8484;
 }	
 
 footer nav ul {
