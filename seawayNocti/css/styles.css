@@ -14,9 +14,14 @@ body{
     padding: 0 0;
 }
 
-h1,h2 {
+h1,h2, h3 {
     margin: 0 0;
     padding: 0 0;
+    text-align: center;
+}
+
+p {
+    
 }
 
 blockquote {
