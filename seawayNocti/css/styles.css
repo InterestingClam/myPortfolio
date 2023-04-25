@@ -41,6 +41,7 @@ header {
 }
 
 .topN {
+    width: 100%; 
     padding: 20px;
     margin: 10px;
     font-size: 2em;
@@ -48,6 +49,10 @@ header {
 	background-color: #00568c99;
 	text-align: center;
 	color:#ffffff;
+}
+
+.topN ul li {
+    display: inline-block;
 }
 
 .topN ul {
