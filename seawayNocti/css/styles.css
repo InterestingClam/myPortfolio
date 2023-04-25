@@ -98,3 +98,7 @@ a:active {
 a:visited {
     color:#008e6699;
 }
+
+form {
+    text-align: center;
+}
