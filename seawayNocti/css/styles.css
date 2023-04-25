@@ -36,6 +36,8 @@ header {
 }
 
 .topN {
+    padding: 20px;
+    margin: 10px;
     font-size: 2em;
 	min-height: 60px;
 	background-color: #00568c99;
@@ -71,6 +73,7 @@ footer {
     padding: 5px 25px;
 	background-color: #00568c;
 	color:#cccccc;
+    text-align: center;
 }
 
 .bottomN ul {
