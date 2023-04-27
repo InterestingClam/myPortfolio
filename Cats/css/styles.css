@@ -16,11 +16,12 @@ Write a CSS pseudo-class statement for the links (HINT: a:link, a:hover, a:activ
 
 
 body {
-
+    background-color: ;
+    color: ;
 }
 
 header {
-
+    text-align: center;
 }
 
 #catNaviBar {
@@ -28,20 +29,24 @@ header {
     margin-right: 45%;
 }
 
-h1 {
-
+h1, h2, h3{
+    color: ;
+    text-align: center;
 }
 
-h2 {
-
+main {
+    background-color: ;
+    color: ;
 }
+
 
 blockquote {
 
 }
 
 table { 
-
+    padding: 0%;
+    margin:0%;
 }
 
 a:link {
@@ -58,4 +63,16 @@ a:active {
  
 a:visited {
 
+}
+
+
+footer {
+    background-color: ;
+    color: ;
+}
+
+
+.bottomNav {
+    background-color: ;
+    color: ;
 }
