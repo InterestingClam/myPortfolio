@@ -5,6 +5,12 @@ heading 2 tag,
 blockquote tag, and the 
 table tag
 Write a CSS pseudo-class statement for the links (HINT: a:link, a:hover, a:active, a:visited)
+#5C3317 - Dark Brown
+#804720 - Brown
+#F7A26C - Tangerine
+#CCAF9D - Desert Sand
+#E76A1A - Spanish Orange
+
 */
 
 
@@ -18,8 +24,8 @@ header {
 }
 
 #catNaviBar {
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left: 45%;
+    margin-right: 45%;
 }
 
 h1 {
@@ -49,5 +55,7 @@ a:hover {
 a:active {
 
 }
+ 
+a:visited {
 
-a:visited
+}
