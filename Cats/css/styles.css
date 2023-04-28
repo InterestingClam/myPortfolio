@@ -18,6 +18,7 @@ Write a CSS pseudo-class statement for the links (HINT: a:link, a:hover, a:activ
 body {
     background-color: #5c3317;
     color: #ccaf9d;
+    
 }
 
 header {
@@ -45,8 +46,13 @@ h1, h2, h3{
 main {
     background-color: #5c3317;
     color: #ccaf9d;
+    margin-left: 20%;
+    margin-right: 20%
 }
 
+ol li{
+    text-align: center;
+}
 
 blockquote {
     padding: 0%;
