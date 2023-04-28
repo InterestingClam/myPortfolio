@@ -70,19 +70,19 @@ table {
     margin:0%;
 }
 
-a:link {
+ a:link {
     color: #F7A26C;
 }
 
-a:hover {
+ a:hover {
     color: #E76A1A;
 }
 
-a:active {
+ a:active {
     color: #F7A26C;
 }
  
-a:visited {
+ a:visited {
     color:#E76A1A;
 }
 
@@ -102,3 +102,18 @@ footer {
     padding: 5px;
     margin: 5px;
 }
+
+.bottomNav a:link {
+    color: #F7A26C;
+}
+
+.bottomNav a:hover {
+    color: #E76A1A;
+}
+
+.bottomNav a:active {
+    color: #F7A26C;
+}
+ 
+.bottomNav a:visited {
+    color:#
