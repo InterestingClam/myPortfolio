@@ -50,7 +50,11 @@ main {
     margin-right: 20%
 }
 
-ol li{
+main img {
+    margin: auto;
+}
+
+ol {
     text-align: center;
 }
 
