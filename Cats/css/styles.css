@@ -16,35 +16,42 @@ Write a CSS pseudo-class statement for the links (HINT: a:link, a:hover, a:activ
 
 
 body {
-    background-color: ;
-    color: ;
+    background-color: #5c3317;
+    color: #ccaf9d;
 }
 
 header {
     text-align: center;
 }
 
-#catNaviBar {
-    margin-left: 45%;
-    margin-right: 45%;
+#favicon {
+	width: 5%;
+	max-width: 5%;
+	margin-bottom: 30px;
+	padding:0;
+	float:left;
 }
 
-#favicon {
-    float: left;
+#catNaviBar {
+    margin-left: 40%;
+    margin-right: 40%;
 }
 
 h1, h2, h3{
-    color: ;
+    color: #ccaf9d;
     text-align: center;
 }
 
 main {
-    background-color: ;
-    color: ;
+    background-color: #5c3317;
+    color: #ccaf9d;
 }
 
 
 blockquote {
+    padding: 0%;
+    margin: 0%;
+    text-decoration:solid;
 
 }
 
@@ -54,29 +61,29 @@ table {
 }
 
 a:link {
-
+    color: #F7A26C;
 }
 
 a:hover {
-
+    color: #E76A1A;
 }
 
 a:active {
-
+    color: #F7A26C;
 }
  
 a:visited {
-
+    color:#E76A1A;
 }
 
 
 footer {
-    background-color: ;
-    color: ;
+    background-color: #5c3317;
+    color: #ccaf9d;
 }
 
 
 .bottomNav {
-    background-color: ;
-    color: ;
+    background-color: #804720;
+    color: #F7A26C;
 }
