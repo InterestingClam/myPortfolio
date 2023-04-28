@@ -103,17 +103,17 @@ footer {
     margin: 5px;
 }
 
-.bottomNav a:link {
+.bottomNav li a:link {
     color: #F7A26C;
 }
 
-.bottomNav a:hover {
+.bottomNav li a:hover {
     color: #E76A1A;
 }
 
-.bottomNav a:active {
+.bottomNav li a:active {
     color: #F7A26C;
 }
  
-.bottomNav a:visited {
+.bottomNav li a:visited {
     color:#
