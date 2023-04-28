@@ -30,8 +30,7 @@ header {
 }
 
 #favicon {
-    margin-left: 0%;
-    margin-right: 90%;
+    float: left;
 }
 
 h1, h2, h3{
