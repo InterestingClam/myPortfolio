@@ -29,7 +29,10 @@ header {
     margin-right: 45%;
 }
 
-
+#favicon {
+    margin-left: 0%;
+    margin-right: 90%;
+}
 
 h1, h2, h3{
     color: ;
