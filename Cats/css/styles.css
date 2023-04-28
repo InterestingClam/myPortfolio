@@ -25,9 +25,8 @@ header {
 }
 
 
-#catNaviBar {
-    margin-left: 45%;
-    margin-right: 40%;
+.catNaviBar {
+    margin: auto;
 }
 
 .favicon {
@@ -81,10 +80,12 @@ a:visited {
 footer {
     background-color: #5c3317;
     color: #ccaf9d;
+    text-align: center;
 }
 
 
 .bottomNav {
+    text-align: center;
     background-color: #804720;
     color: #F7A26C;
 }
