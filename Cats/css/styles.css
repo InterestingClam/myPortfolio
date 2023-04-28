@@ -33,8 +33,16 @@ header img {
 }
 
 #catNaviBar {
-    margin-left: 40%;
+    margin-left: 45%;
     margin-right: 40%;
+}
+
+.favicon {
+	width: 5%;
+	max-width: 5%;
+	margin-bottom: 30px;
+	padding:0;
+	float:left;
 }
 
 h1, h2, h3{
@@ -51,7 +59,7 @@ main {
 blockquote {
     padding: 0%;
     margin: 0%;
-    text-decoration:solid;
+    text-decoration:solid
 
 }
 
