@@ -50,11 +50,11 @@ main {
     margin-right: 20%
 }
 
-main img {
+.mainPics {
     margin: auto;
 }
 
-ol {
+.orderedList {
     text-align: center;
 }
 
